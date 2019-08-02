@@ -945,6 +945,8 @@ pdal pipeline --input pipelinefile.json
 
 ### 一、pointcloud插入速度
 
+-- 测试环境虚拟机
+
 ```sql
 -- 创建测试数据库
 create database tsdb;
