@@ -945,7 +945,7 @@ pdal pipeline --input pipelinefile.json
 
 ### 一、pointcloud插入速度
 
--- 测试环境虚拟机
+ 测试环境为虚拟机,性能测试部分还需要完善
 
 ```sql
 -- 创建测试数据库
